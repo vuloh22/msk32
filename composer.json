@@ -1,0 +1,25 @@
+{
+    "name": "got-3/game-of-thrones-season-8-episode-3-online-tv-hbo",
+    "description": "WATCH ONLINE Game of Thrones Season 8 Episodes 3 Full Free S08E03 WATCH FULL EPISODES HERE",
+    "homepage": "https://github.com/sobo2223/asfa3",
+	"keywords": ["Game of Thrones Season 8 Episodes 3 Watch Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Watch Game Of Thrones S08 E03 Online",
+            "homepage": "http://bit.ly/GOTS08E03Online",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
